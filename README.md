@@ -41,3 +41,7 @@ Heap Sort,
 Merge Sort,
 Quicksort 
 Shellsort**
+
+# License
+
+This repository is licensed under the MIT License.
