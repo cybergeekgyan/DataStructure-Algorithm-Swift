@@ -25,7 +25,7 @@ Data structure is a particular way of organizing and storing data in a computer 
 
 Algorithm is an unambiguous specification of how to solve a class of problems. Algorithm is a set of rules that precisely defines a sequence of operations.
 
-**Search**
+**Searching :-**
 
 **Linear Search**
 
