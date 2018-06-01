@@ -17,8 +17,6 @@ Data structure is a particular way of organizing and storing data in a computer 
 
 **Priority Queue**
 
-**Trie**
-
 **Tree**
 
 # Algorithm
