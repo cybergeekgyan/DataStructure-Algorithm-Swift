@@ -33,14 +33,34 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 
 
 
-**Sorting :-
-Bubble Sort,
-Selection Sort,
-Insertion Sort,
-Heap Sort,
-Merge Sort,
-Quicksort 
-Shellsort**
+**Sorting :-**
+
+
+**Bubble Sort**
+
+**Selection Sort**
+
+**Insertion Sort**
+
+**Heap Sort**
+
+**Merge Sort**
+
+**Quicksort**
+
+
+# Big O Notation
+
+**Order of growth of algorithms specified in Big O notation.**
+
+
+<img src="https://github.com/baquer/DataStructure-Algorithm-Swift/blob/master/images/big.png"
+width="1000">
+
+**Below is the list of some of the most used Big O notations and their performance comparisons against different sizes of the input data.**
+
+<img src="https://github.com/baquer/DataStructure-Algorithm-Swift/blob/master/images/table.jpg"
+width="1000">
 
 # License
 
