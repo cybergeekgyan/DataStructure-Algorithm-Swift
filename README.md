@@ -62,6 +62,16 @@ width="1000">
 <img src="https://github.com/baquer/DataStructure-Algorithm-Swift/blob/master/images/table.jpg"
 width="1000">
 
+
+# Data Structure Operations Complexity
+
+<img src="https://github.com/baquer/DataStructure-Algorithm-Swift/blob/master/images/DSOC.png"
+width="1000">
+
+# Array Sorting Algorithms Complexity
+
+<img src="https://github.com/baquer/DataStructure-Algorithm-Swift/blob/master/images/sortC.png"
+width="1000">
 # License
 
 This repository is licensed under the MIT License.
