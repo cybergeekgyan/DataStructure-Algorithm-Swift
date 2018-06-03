@@ -26,6 +26,6 @@ If there is an open issue which your changes will solve, include Closes/Fixes/Re
 
 You may share working results prior to finishing, please include [WIP] in the title. This way anyone can look at your code: you can ask for help within the PR if you don't know how to solve a problem.
 
-If you are committing work in progress, please name your branche like some-branch-name-wip. The *-wip/wip-*/wip/* tells our CI to skip this branch for builds. Once you are ready, you can rename your branch and push your working commits (only a push will trigger CI). This makes it easier to save time and resources on continuous integration.
+If you are committing work in progress, please name your branche like some-branch-name-wip. This makes it easier to save time and resources on continuous integration.
 
 If working on docs or nothing related to the sourcecode of the App, you may want to name your branch *-docs/docs-*/docs/*. This has the same effect as wip above.
