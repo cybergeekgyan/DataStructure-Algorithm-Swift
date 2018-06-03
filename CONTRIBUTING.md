@@ -11,10 +11,10 @@ Xcode 9.3.x or higher (Swift 4.1)
 Fork the Project And Start Contributing.
 
 ## New to Swift?
-Search engines like Google help most of the times or consider searching on platforms like StackOverflow
+Search engines like Google help most of the times or consider searching on platforms like <a href="http://www.stackoverflow.com">Stack Overflow</a>
 
 # Code style
-We use swiftlint to enforce code style and best practices. Setup Xcode to use 4 spaces as indentation. For general styling refer to this Swift style guide.
+ Setup Xcode to use 4 spaces as indentation. For general styling refer to this <a href="https://github.com/raywenderlich/swift-style-guide">Swift Style Guide</a>.
 
 # Pull Request
 
