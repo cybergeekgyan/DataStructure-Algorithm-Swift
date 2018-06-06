@@ -2,7 +2,7 @@
 
 import UIKit
 
-let list = [ 10, -1, 3, 9, 2, 27, 8, 5, 1, 3, 0, 26 ]
+let list = [ 5,6,7,1,-10,3 ]
 selectionSort(list, <)
 selectionSort(list, >)
 
