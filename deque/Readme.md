@@ -1,3 +1,5 @@
+# Deque
+
 Deque or Double Ended Queue is a generalized version of Queue data structure that allows insert and delete at both ends.
 
 Operations on Deque:
