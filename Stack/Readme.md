@@ -1,3 +1,5 @@
+# Stack
+
 An array is a random access data structure, where each element can be accessed directly and in constant time. A typical illustration of random access is a book - each page of the book can be open independently of others. Random access is critical to many algorithms, for example binary search.
 
 A linked list is a sequential access data structure, where each element can be accesed only in particular order. A typical illustration of sequential access is a roll of paper or tape - all prior material must be unrolled in order to get to data you want.
@@ -10,3 +12,6 @@ A stack is a recursive data structure. Here is a structural definition of a Stac
 
 a stack is either empty or
 it consistes of a top and the rest which is a stack;
+
+<img src="https://github.com/baquer/DataStructure-Algorithm-Swift/blob/master/images/stack.jpeg"
+ width="500">
