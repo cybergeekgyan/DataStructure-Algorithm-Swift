@@ -25,13 +25,13 @@ public class Deque<T> {
         array.append(element)
     }
     
-    public func enqueueFirst(_ element: T) {
+    public func enqueueFront(_ element: T) {
         array.insert(element, at: 0)
     }
     
    
     
-    public func dequeueLast() -> T? {
+    public func dequeueRear() -> T? {
         if isEmpty {
             return nil
         } else {
@@ -39,11 +39,11 @@ public class Deque<T> {
         }
     }
     
-    public func peekFirst() -> T? {
+    public func peekFront() -> T? {
         return array.first
     }
     
-    public func peekLast() -> T? {
+    public func peekRear() -> T? {
         return array.last
     }
 }
