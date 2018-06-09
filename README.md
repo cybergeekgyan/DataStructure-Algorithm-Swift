@@ -95,4 +95,4 @@ width="1000">
   
 # License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the <a href="https://github.com/baquer/DataStructure-Algorithm-Swift/blob/master/LICENSE">MIT</a> License.
